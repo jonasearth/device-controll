@@ -1,0 +1,3 @@
+[submodule "user-core"]
+	path = user-core
+	url = git@github.com:jonasearth/user-core.git
